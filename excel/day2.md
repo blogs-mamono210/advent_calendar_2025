@@ -1,6 +1,4 @@
-# Excel DX：ファイル処理を自動化して業務を変える
-
-## ―― AWS Lambda で作る実践的 Excel 統合システム
+# Excel DX：ファイル処理を自動化して業務を変える - AWS Lambda で作る実践的 Excel 統合システム
 
 > **Excel DX**（デジタルトランスフォーメーション）とは、
 > *人手でExcelを作る業務* を、
